@@ -1,0 +1,5 @@
+{:main          "NativeTalkCRM.NativeTalkCRM.test-suite"
+ :output-dir    "target/test-js"
+ :output-to     "target/test-js/testIndex.js"
+ :optimizations :none
+ :target        :nodejs}
